@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# API docs at
+# https://docs.google.com/document/d/1Nsv52MvSjbLb2PCpHlat0gkzw0EvtSgpKHu4mk0MnrA/edit?tab=t.0
+
 set -euo pipefail
 
 function err() {
